@@ -42,3 +42,7 @@ This is just a PoC.
 - Prefetching API data on proxy start
 - Support for other clubs
 - Idk, styling?
+
+## Acknowledgements
+
+Thanks to https://github.com/Ishadijcks/NevoboBundle for revealing the Nevobo API routes. Nevobo understandibly doesn't seem to have a public API spec and this repo solved that issue for me.
