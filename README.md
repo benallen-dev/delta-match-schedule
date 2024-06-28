@@ -2,6 +2,10 @@
 
 The one on their website returns incorrect data, and searches and filters clientside which isn't great. This is my experiment to see how hard it would be to build a better version.
 
+## PS - 9 months later
+
+It really wasn't that hard
+
 ## How to run
 
 Start yourself off with a good old-fashioned
